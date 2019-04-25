@@ -1,8 +1,10 @@
 # mongo-crud
 
-[![Build Status](https://travis-ci.org/torchhound/mongo-crud.svg?branch=master)](https://travis-ci.org/torchhound/mongo-crud)
-
 A CRUD API built with MongoDB and Express.
+
+# Setup
+
+Edit the example.env file and save a copy as ".env".
 
 # Build
 
